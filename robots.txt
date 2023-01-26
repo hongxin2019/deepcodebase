@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://hongxin19.github.io/deepcodebase/sitemap.xml
+Sitemap: https://hongxin19.github.io/deepcodebase/deepcodebase/sitemap.xml
